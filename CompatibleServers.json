@@ -27,6 +27,11 @@
           "ServerName": "Korty's Server",
           "ServerAddress": "bs.useast.kortyservers.xyz",
           "ServerPort": 3700
+      },
+      {
+          "ServerName": "Senko Host,
+          "ServerAddress": "hub.senko.host",
+          "ServerPort": 3700
       }
   ]
 }
